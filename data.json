@@ -1,0 +1,42 @@
+[
+  {
+    "nom": "IZIDDINE", "prenom": "Farda",
+    "email": "iziddinefarda13@gmail.com", "telephone": "33618220115",
+    "note": 4, "noteLabel": "Très bien", "statut": "Étudiant",
+    "localisation": "Europe", "projetAfrique": "Non",
+    "accompagnement": "Non", "echange": "", "optinSlides": true,
+    "apprecie": "", "amelioration": "", "besoin": "",
+    "submittedAt": "2026-06-20T14:44:18"
+  },
+  {
+    "nom": "Akichi", "prenom": "Lauria",
+    "email": "akichi.lauria@gmail.com", "telephone": "33614749347",
+    "note": 5, "noteLabel": "Excellent", "statut": "Entrepreneur",
+    "localisation": "", "projetAfrique": "Oui, en réflexion",
+    "accompagnement": "Peut-être", "echange": "", "optinSlides": true,
+    "apprecie": "Les explications données",
+    "amelioration": "Approfondir sur certains outils",
+    "besoin": "Finaliser les travaux d'une maison en Côte d'Ivoire",
+    "submittedAt": "2026-06-20T14:45:21"
+  },
+  {
+    "nom": "NGT", "prenom": "Lovely",
+    "email": "lovely.ngontsouini@outlook.fr", "telephone": "33667190314",
+    "note": 5, "noteLabel": "Excellent", "statut": "Étudiant",
+    "localisation": "Europe", "projetAfrique": "Non, mais intéressé",
+    "accompagnement": "Peut-être", "echange": "Non", "optinSlides": true,
+    "apprecie": "", "amelioration": "Montrer l'IA en action (créer un MVP)",
+    "besoin": "",
+    "submittedAt": "2026-06-20T14:46:17"
+  },
+  {
+    "nom": "VICENTE", "prenom": "Juana",
+    "email": "juana.maria.vicente@gmail.com", "telephone": "33667248455",
+    "note": 5, "noteLabel": "Excellent", "statut": "Autre",
+    "localisation": "", "projetAfrique": "Non",
+    "accompagnement": "", "echange": "Oui", "optinSlides": true,
+    "apprecie": "Les présentateurs", "amelioration": "Rien",
+    "besoin": "",
+    "submittedAt": "2026-06-20T14:46:39"
+  }
+]
